@@ -1,0 +1,10 @@
+.div-timer
+{
+    border: 2px;
+    border-style: solid;
+    width: 160px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
